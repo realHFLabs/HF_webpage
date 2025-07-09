@@ -16,8 +16,7 @@ about:
   enable: true
   title: "About Us"
   description: "HF Labs began where most good ideas start: with a bit of frustration and a lot of late-night conversations."
-  content: "**HF Labs began where most good ideas start: with a bit of frustration and a lot of late-night conversations.**  
-We were deep in the trenches of our job, constantly wrestling with instruments that were overpriced, unreliable, or just not designed with our experiment in mind. So we started asking the big question: *what if we just built it better ourselves?*
+  content: "We were deep in the trenches of our job, constantly wrestling with instruments that were overpriced, unreliable, or just not designed with our experiment in mind. So we started asking the big question: *what if we just built it better ourselves?*
 
 Not cheaper for the sake of being cheap, not fancier for the sake of being flashy—but tools built with care, purpose, and deep understanding of what real labs actually need.
 
@@ -55,7 +54,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "HF_images/random/microscope.jpg"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:

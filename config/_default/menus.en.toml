@@ -23,6 +23,12 @@ hasChildren = true
   url = "/products/OPM/"
   weight = 1
 
+  [[main]]
+  parent = "Products"
+  name = "OPS"
+  url = "/products/OPS/"
+  weight = 2
+
 [[main]]
 name = "Vision"
 url = "vision/"

@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/products/opm/</guid>
       <description>&lt;h3 id=&#34;welcome-to-airspace&#34;&gt;Welcome to Airspace!&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo&#xA;repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus&#xA;nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus&#xA;magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque&#xA;nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim&#xA;dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque&#xA;quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est&#xA;obcaecati maiores voluptates.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>OPS</title>
+      <link>http://localhost:1313/products/ops/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/products/ops/</guid>
+      <description>&lt;h3 id=&#34;welcome-to-airspace&#34;&gt;Welcome to Airspace!&lt;/h3&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo&#xA;repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus&#xA;nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus&#xA;magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque&#xA;nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim&#xA;dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque&#xA;quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est&#xA;obcaecati maiores voluptates.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

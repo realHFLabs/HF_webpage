@@ -1051,7 +1051,7 @@ header .navbar-default .navbar-nav li a:hover {
   .pricing-table .price-title > h3 {
     font-weight: 700;
     margin: 0 0 5px;
-    font-size: 15px;
+    font-size: 40px;
     text-transform: uppercase; }
   .pricing-table .price-title > p {
     font-size: 14px;
